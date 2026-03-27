@@ -1,5 +1,5 @@
 from standard import *
-from setup import Setup
+from setup_sim import Setup
 from market import Market
 from chart import chart
 
